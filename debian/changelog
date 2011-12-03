@@ -1,5 +1,6 @@
-svgpart (4:4.7.2-0r1) UNRELEASED; urgency=low
+svgpart (4:4.7.2-0r1) experimental; urgency=low
 
+  [ Pino Toscano ]
   * Initial release.
 
- -- Pino Toscano <pino@debian.org>  Wed, 16 Nov 2011 11:03:28 +0100
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 03 Dec 2011 10:46:10 -0300
