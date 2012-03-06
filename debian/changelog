@@ -1,3 +1,9 @@
+svgpart (4:4.7.4-2) unstable; urgency=low
+
+  * Team upload. Upload to unstable.
+
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Tue, 06 Mar 2012 14:29:16 +0100
+
 svgpart (4:4.7.4-1) experimental; urgency=low
 
   * New upstream release.
