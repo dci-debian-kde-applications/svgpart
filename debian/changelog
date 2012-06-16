@@ -1,3 +1,10 @@
+svgpart (4:4.8.4-0r1) UNRELEASED; urgency=low
+
+  [ Pino Toscano ]
+  * New upstream release.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 16 Jun 2012 17:48:05 +0200
+
 svgpart (4:4.7.4-2) unstable; urgency=low
 
   * Team upload. Upload to unstable.
