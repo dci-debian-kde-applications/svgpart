@@ -1,3 +1,10 @@
+svgpart (4:4.10.0-0r1) UNRELEASED; urgency=low
+
+  * Non-maintainer upload.
+  * New upstream
+
+ -- Diane Trout <diane@ghic.org>  Tue, 01 Jan 2013 18:40:27 -0800
+
 svgpart (4:4.8.4-1) unstable; urgency=low
 
   * New upstream release.
