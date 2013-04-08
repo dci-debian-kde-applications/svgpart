@@ -1,10 +1,11 @@
-svgpart (4:4.10.2-1) UNRELEASED; urgency=low
+svgpart (4:4.10.2-1) experimental; urgency=low
 
+  [ Diane Trout ]
   * New upstream
   * Bump kde-sc-dev-latest build dependency to 4.10.1
   * Bump kdelibs5-dev build dependency to 4.10
 
- -- Diane Trout <diane@ghic.org>  Sun, 07 Apr 2013 20:46:52 -0700
+ -- Sune Vuorela <sune@debian.org>  Mon, 08 Apr 2013 19:51:59 +0000
 
 svgpart (4:4.8.4-1) unstable; urgency=low
 
