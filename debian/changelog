@@ -1,3 +1,9 @@
+svgpart (4:4.10.3-1) UNRELEASED; urgency=low
+
+  * New upstream release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 28 May 2013 13:17:49 +0200
+
 svgpart (4:4.10.2-1) experimental; urgency=low
 
   [ Diane Trout ]
