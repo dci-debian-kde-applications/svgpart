@@ -1,6 +1,7 @@
 svgpart (4:4.11.3-2) UNRELEASED; urgency=medium
 
   * Do not disable an empty test set.
+  * Bump Standards-Version to 3.9.5, no changes needed.
 
  -- Maximiliano Curia <maxy@debian.org>  Mon, 03 Feb 2014 11:24:14 +0100
 
