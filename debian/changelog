@@ -1,10 +1,10 @@
-svgpart (4:14.12.2-0ubuntu1) UNRELEASED; urgency=medium
+svgpart (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
   * Remove unstable from watch file, uscan fails with 
     remote site does not even have current version
   
- -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 06 Feb 2015 12:32:04 -0800
+ -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 10 Feb 2015 08:18:39 -0800
 
 svgpart (4:14.12.0-0ubuntu1) vivid; urgency=medium
 
