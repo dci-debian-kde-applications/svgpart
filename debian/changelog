@@ -1,3 +1,9 @@
+svgpart (4:4.11.3-3) UNRELEASED; urgency=medium
+
+  * Update watch file.
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 18 May 2015 15:46:40 +0200
+
 svgpart (4:4.11.3-2) unstable; urgency=medium
 
   * Do not disable an empty test set.
