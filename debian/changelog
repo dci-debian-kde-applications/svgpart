@@ -1,8 +1,8 @@
-svgpart (4:15.08.2-0ubuntu1) UNRELEASED; urgency=medium
+svgpart (4:15.08.2-0ubuntu1) wily; urgency=medium
 
   * New upstream release
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 09 Oct 2015 15:20:20 -0700
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 14 Oct 2015 13:08:38 +0100
 
 svgpart (4:15.08.1-0ubuntu1) wily; urgency=medium
 
