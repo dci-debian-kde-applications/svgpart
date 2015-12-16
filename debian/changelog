@@ -1,8 +1,9 @@
-svgpart (4:4.11.3-3) UNRELEASED; urgency=medium
+svgpart (4:15.12.0-1~) UNRELEASED; urgency=medium
 
   * Update watch file.
+  * New upstream release (15.12.0).
 
- -- Maximiliano Curia <maxy@debian.org>  Mon, 18 May 2015 15:46:40 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 16 Dec 2015 16:10:06 +0100
 
 svgpart (4:4.11.3-2) unstable; urgency=medium
 
