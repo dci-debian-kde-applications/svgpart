@@ -1,3 +1,21 @@
+svgpart (4:17.04.1-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Thu, 11 May 2017 18:29:42 +0000
+
+svgpart (4:17.04.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 19 Apr 2017 13:07:36 +0000
+
+svgpart (4:16.12.3-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 08 Mar 2017 13:52:00 +0000
+
 svgpart (4:16.12.2-0neon) xenial; urgency=medium
 
   * New release
