@@ -5,14 +5,14 @@ Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Pino Toscano <pino@debian.org>,
            Eshat Cakar <info@eshat.de>,
            Maximiliano Curia <maxy@debian.org>,
-Build-Depends: cmake (>= 2.8.9~),
+Build-Depends: cmake (>= 2.8.12~),
                debhelper (>= 9),
-               extra-cmake-modules,
+               extra-cmake-modules (>= 1.0.0~),
                libkf5coreaddons-dev,
                libkf5parts-dev,
-               libqt5svg5-dev,
+               libqt5svg5-dev (>= 5.2.0~),
                pkg-kde-tools (>= 0.12),
-               qtbase5-dev,
+               qtbase5-dev (>= 5.2.0~),
 Standards-Version: 4.1.0
 Homepage: https://projects.kde.org/projects/kde/kdegraphics/svgpart
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/svgpart.git
