@@ -7,9 +7,12 @@ Uploaders: Pino Toscano <pino@debian.org>,
            Maximiliano Curia <maxy@debian.org>
 Build-Depends: cmake (>= 2.8.9~),
                debhelper (>= 9),
-               kde-sc-dev-latest (>= 4:4.11),
-               kdelibs5-dev (>= 4:4.11),
-               pkg-kde-tools (>= 0.12)
+               extra-cmake-modules,
+               libkf5coreaddons-dev,
+               libkf5parts-dev,
+               libqt5svg5-dev,
+               pkg-kde-tools (>= 0.12),
+               qtbase5-dev
 Standards-Version: 3.9.8
 Homepage: https://projects.kde.org/projects/kde/kdegraphics/svgpart
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/svgpart.git
@@ -19,8 +22,8 @@ Package: svgpart
 Architecture: any
 Section: graphics
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Breaks: gwenview (<< 4:4.7.0)
-Replaces: gwenview (<< 4:4.7.0)
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Description: KDE SVG KPart
  SvgPart is a small KDE KPart component to display SVG images in Gwenview
  and in any other KDE application which uses the KPart system.
