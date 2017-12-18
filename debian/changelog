@@ -2,6 +2,7 @@ svgpart (4:17.08.3-0r1) UNRELEASED; urgency=medium
 
   [ Pino Toscano ]
   * New upstream release.
+  * Bump Standards-Version to 4.1.2, no changes required.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Mon, 18 Dec 2017 15:58:02 +0100
 
