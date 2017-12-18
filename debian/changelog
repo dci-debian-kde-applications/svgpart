@@ -1,3 +1,10 @@
+svgpart (4:17.08.3-0r1) UNRELEASED; urgency=medium
+
+  [ Pino Toscano ]
+  * New upstream release.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Mon, 18 Dec 2017 15:58:02 +0100
+
 svgpart (4:17.08.1-1) experimental; urgency=medium
 
   * New upstream release (17.08.1)
